@@ -1,2 +1,2 @@
 ﻿# geodo.task
-# app.js uygulamamın kodlarının oldugu bölüm
+# app.js uygulamamın js kodlarının oldugu bölüm.
