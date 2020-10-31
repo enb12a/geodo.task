@@ -1,0 +1,19 @@
+{
+  "name": "geodo-enbiya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openlayers"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mssql": "^6.2.3",
+    "mysql": "^2.18.1",
+    "ol": "^6.4.3"
+  }
+}
